@@ -12,6 +12,7 @@ fun Contact(name:String, phone:String){
     Column() {
         Text(name)
         Text(phone)
+        Text("Hola")
         
     }
 }
